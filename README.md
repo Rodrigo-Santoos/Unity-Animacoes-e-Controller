@@ -9,11 +9,23 @@
 Projeto de aprendizado de Animaçoes de personagem e Controlar
 
 ### 📋 Pré-requisitos
+Para quem Só quer ver Rodando:
+```
+- Ter um PC.
+- Ter um Celular Android (Em Breve)
+```
 
+Para quem quer ver com mais detalhes[codigo fonte, imagem e etc...]:
+``` 
+- Ter um PC.
+- Ter a Unity 2017 instalada;
+- Ter o Visual Studio (qualquer versao) instalado;
 ```
-Ter um PC.
-Ter um Celular Android (Em Breve)
-```
+## Links para download
+### 💻 Download Necessários 
+- Unity IDLE --> https://unity.com/releases/editor/archive | Unity Hub --> https://unity.com/pt/download
+- Visual Studio --> https://visualstudio.microsoft.com/pt-br/downloads/
+
 ### 🔧 Execução
 
 Antes de tudo:
@@ -29,7 +41,7 @@ Depois de Baixar, abra a pasta [Arquivo Exe] e clique 2 vezes em IdleRun.exe, au
 ```
 Para adicionar a aplicação na Unity:
 ```
-No Unity Hub abra a pasta [Controle IDLE e Run] 
+No Unity Hub adicione a pasta [Controle IDLE e Run] e abra, automaticamente ira abrir o projeto na IDLE.
 ```
 
 ## ✒️ Desenvolvido por
