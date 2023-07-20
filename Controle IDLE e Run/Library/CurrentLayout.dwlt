@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 8}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -67,10 +67,10 @@ MonoBehaviour:
     y: 676
     width: 1643
     height: 271
-  m_MinSize: {x: 336, y: 271}
-  m_MaxSize: {x: 14006, y: 10021}
+  m_MinSize: {x: 332, y: 271}
+  m_MaxSize: {x: 14002, y: 10021}
   vertical: 0
-  controlID: 75
+  controlID: 77
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -117,9 +117,9 @@ MonoBehaviour:
     width: 1920
     height: 947
   m_MinSize: {x: 683, y: 492}
-  m_MaxSize: {x: 18008, y: 14042}
+  m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 28
+  controlID: 156
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -213,7 +213,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: Perfeito
+  m_LastLoadedLayoutName: 
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -255,9 +255,9 @@ MonoBehaviour:
     width: 1643
     height: 947
   m_MinSize: {x: 406, y: 492}
-  m_MaxSize: {x: 14006, y: 14042}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 1
-  controlID: 29
+  controlID: 52
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -281,7 +281,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 30
+  controlID: 53
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -340,7 +340,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ResetOnNextRepaint: 0
   m_IgnoreNextPostprocessEvent: 0
-  m_SelectedAssetPath: Assets/Sprites/Personagem/Idle/12.png
+  m_SelectedAssetPath: Assets/Sprites/Personagem/Idle/1.png
   m_Selected:
     m_Name: 
     m_OriginalName: 
@@ -528,19 +528,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Unity\Unity Projetos\Controle IDLE e Run
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b8310000
-    m_LastClickedID: 12728
-    m_ExpandedIDs: 0000000084270000c628000000ca9a3bffffff7f
+    m_SelectedIDs: 22280000
+    m_LastClickedID: 10274
+    m_ExpandedIDs: 000000008a270000d628000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -568,7 +568,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000084270000302a0000
+    m_ExpandedIDs: 000000008a270000d6280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -686,9 +686,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 002b0000
-    m_LastClickedID: 11008
-    m_ExpandedIDs: 9efbffff00000000002b0000
+    m_SelectedIDs: 96fbffff
+    m_LastClickedID: -1130
+    m_ExpandedIDs: 96fbffff000000002a2b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -744,9 +744,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -11.760136, y: -1.024922, z: -0.031863376}
+    m_Target: {x: -10.096276, y: -0.6415888, z: -0.05372904}
     speed: 2
-    m_Value: {x: -11.760136, y: -1.024922, z: -0.031863376}
+    m_Value: {x: -10.096276, y: -0.6415888, z: -0.05372904}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -774,9 +774,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.1378984
+    m_Target: 8.261297
     speed: 2
-    m_Value: 6.1378984
+    m_Value: 8.261297
   m_Ortho:
     m_Target: 1
     speed: 2
